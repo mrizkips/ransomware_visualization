@@ -1,0 +1,5 @@
+executable_files
+benign_images
+ransomware_images
+.vscode
+__pycache__
